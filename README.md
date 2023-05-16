@@ -1,2 +1,2 @@
 # tower-blocks-game-
-its clone game of another game tower blocks as nfactorial
+его игра-клон другой игры Tower Blocks и служит как решение задании отбора nfactorial 2023
